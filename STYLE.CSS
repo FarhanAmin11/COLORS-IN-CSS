@@ -1,0 +1,36 @@
+/* COLOR NAME */
+/* h1{
+    color:red
+} */
+
+/* HEX CODE */
+/* h1{
+    color:#783209
+} */
+
+/* RGB */
+/* h1{
+    color:rgb(200, 30, 10)
+} */
+
+/* BLACKGROUND COLOR */
+/* body{
+    background-color: #567438;
+    color:yellow;
+} */
+/* div{
+    background-color: wheat;
+    color:red
+} */
+
+/* OPACITY */
+/* #div1{
+    background-color: green;
+    opacity: 0.5;
+} */
+
+img{
+    opacity:0.5;
+}
+
+ 
